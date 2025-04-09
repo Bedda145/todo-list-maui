@@ -1,0 +1,13 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# C# files
+*.cs text diff=csharp
+
+# XAML files
+*.xaml text
+*.xaml.cs text
+
+# Solution and project files
+*.sln text
+*.csproj text
